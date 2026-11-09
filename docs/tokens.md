@@ -6,9 +6,9 @@ This document establishes the lightweight, high-efficiency operational protocol 
 
 ### Current Prompt Routing
 
-- Prompt 139 (Fix GitHub Pages Deployment and README.md Links):
-  - Task 368: [COMPLETED] Fixed GitHub Pages deployment configuration, added .nojekyll, ensured README.md contains Storybook & Report links, synchronized update-readme.mjs, and verified all related tests.
-- Active Backlog: Empty (all prompt tasks completed and archived in `docs/done.md`).
+- Prompt 140 (Go On):
+  - Backlog Status: Active backlog in `docs/tasks.md` and `current-sub-task.md` is empty. No more tasks left.
+- Active Backlog: Empty (all tasks completed and archived in `docs/done.md`).
 
 ---
 
